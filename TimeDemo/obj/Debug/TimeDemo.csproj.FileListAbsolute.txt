@@ -1,0 +1,6 @@
+H:\Comp-123 - C#\Projects\wk03\TimeDemo\bin\Debug\TimeDemo.exe.config
+H:\Comp-123 - C#\Projects\wk03\TimeDemo\bin\Debug\TimeDemo.exe
+H:\Comp-123 - C#\Projects\wk03\TimeDemo\bin\Debug\TimeDemo.pdb
+H:\Comp-123 - C#\Projects\wk03\TimeDemo\obj\Debug\TimeDemo.csprojResolveAssemblyReference.cache
+H:\Comp-123 - C#\Projects\wk03\TimeDemo\obj\Debug\TimeDemo.exe
+H:\Comp-123 - C#\Projects\wk03\TimeDemo\obj\Debug\TimeDemo.pdb

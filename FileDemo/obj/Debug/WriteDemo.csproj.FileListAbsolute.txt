@@ -1,0 +1,5 @@
+H:\Comp-123 - C#\Projects\wk03\FileDemo\bin\Debug\FileDemo.exe.config
+H:\Comp-123 - C#\Projects\wk03\FileDemo\bin\Debug\FileDemo.exe
+H:\Comp-123 - C#\Projects\wk03\FileDemo\bin\Debug\FileDemo.pdb
+H:\Comp-123 - C#\Projects\wk03\FileDemo\obj\Debug\FileDemo.exe
+H:\Comp-123 - C#\Projects\wk03\FileDemo\obj\Debug\FileDemo.pdb

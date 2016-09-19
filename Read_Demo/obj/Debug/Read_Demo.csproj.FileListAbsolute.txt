@@ -1,0 +1,5 @@
+H:\Comp-123 - C#\Projects\wk03\Read_Demo\bin\Debug\Read_Demo.exe.config
+H:\Comp-123 - C#\Projects\wk03\Read_Demo\bin\Debug\Read_Demo.exe
+H:\Comp-123 - C#\Projects\wk03\Read_Demo\bin\Debug\Read_Demo.pdb
+H:\Comp-123 - C#\Projects\wk03\Read_Demo\obj\Debug\Read_Demo.exe
+H:\Comp-123 - C#\Projects\wk03\Read_Demo\obj\Debug\Read_Demo.pdb

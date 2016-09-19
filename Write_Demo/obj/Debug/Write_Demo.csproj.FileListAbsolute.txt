@@ -1,0 +1,5 @@
+H:\Comp-123 - C#\Projects\wk03\Write_Demo\bin\Debug\Write_Demo.exe.config
+H:\Comp-123 - C#\Projects\wk03\Write_Demo\bin\Debug\Write_Demo.exe
+H:\Comp-123 - C#\Projects\wk03\Write_Demo\bin\Debug\Write_Demo.pdb
+H:\Comp-123 - C#\Projects\wk03\Write_Demo\obj\Debug\Write_Demo.exe
+H:\Comp-123 - C#\Projects\wk03\Write_Demo\obj\Debug\Write_Demo.pdb
